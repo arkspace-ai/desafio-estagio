@@ -19,7 +19,7 @@ A Acme AI está em um processo de expansão e precisa de uma maneira eficiente p
 ### 1. Frontend
 
 - **Tecnologia**: Utilize React, preferencialmente com TypeScript. JavaScript também é aceito.
-- **Estilização**: (Opcioanl) Utilize Tailwind CSS para adicionar estilos conforme necessário.
+- **Estilização**: Utilize Tailwind CSS para adicionar estilos conforme necessário.
 - **Funcionalidades**:
   - Tela para listagem dos agentes de IA.
   - Visualização de detalhes de cada agente.
@@ -31,14 +31,11 @@ A Acme AI está em um processo de expansão e precisa de uma maneira eficiente p
 
 - **Tecnologia**: Python com FastAPI.
 - **API REST**: Endpoints para todas as operações CRUD.
-- **Autenticação**: (Opcional) Implemente autenticação básica.
+- **Autenticação**: Implemente autenticação básica.
 
 ### 3. Banco de Dados
 
 - **Tecnologia**: PostgreSQL.
-
-#### (Opcional) Dica
-
 - **ORM**: SQLAlchemy.
 - **Migrações**: Alembic para gerenciar migrações.
 
